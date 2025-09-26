@@ -20,7 +20,6 @@ DrawAR is an innovative application enabling you to sketch, annotate, and expres
 
 - **Unity:** 6000.2.3f1
 - **Vuforia Engine:** 11.4
-- **Visual Studio:** 1.103.2
 - **Android SDK:** 1.16
 - **Microsoft .NET SDK:** 9.0.305
 
